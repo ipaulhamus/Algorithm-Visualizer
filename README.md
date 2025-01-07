@@ -1,6 +1,6 @@
 # Algorithm-Visualizer
 *What is it?*
-This is a web application built using C# and Blazor that visualizes the process different sorting algorithms use to sort sets of integers. Once a sort completes, the application displays the best-case, average-case, and worst-case scenarios of the algorithm’s sorting processes in Big O notation. 
+This is a web application built using C# and Blazor that visualizes the process different sorting algorithms use to sort sets of integers. This project was created in a college Data Structures and Algorithms class.  Once a sort completes, the application displays the best-case, average-case, and worst-case scenarios of the algorithm’s sorting processes in Big O notation. 
 
 This Visualizer Includes the Following Algorithms: 
 - Bubble Sort
